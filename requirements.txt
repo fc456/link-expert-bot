@@ -2,3 +2,8 @@ telegram==0.0.1
 python-telegram-bot==12.8
 pyshorteners
 unshortenit
+Flask==1.1.2
+gunicorn==20.1.0
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
